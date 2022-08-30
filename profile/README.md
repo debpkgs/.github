@@ -1,14 +1,12 @@
-## Debian Package Repository
+## Install
 
-### Install
-
-#### General
+### General
 
 ```
 curl -sL 'https://raw.githubusercontent.com/debpkgs/init/main/install.general.sh' | bash -
 ```
 
-#### Extra
+### Extra
 
 ```
 curl -sL 'https://raw.githubusercontent.com/debpkgs/init/main/install.extra.sh' | bash -
